@@ -34,7 +34,11 @@
 - Дизайн авторский, так как нет никаких требований к дизайну.  
                
                       
- ![Домашняя страница](https://github.com/ayanchevsky/HomeWork2/blob/master/top5.PNG) 
+ ![Домашняя страница](https://github.com/ayanchevsky/HomeWork3/blob/master/image/home.PNG) 
+ ![Создание задачи](https://github.com/ayanchevsky/HomeWork3/blob/master/image/create.PNG) 
+ ![Все задачи](https://github.com/ayanchevsky/HomeWork3/blob/master/image/all.PNG) 
+ ![Редактирование задачи](https://github.com/ayanchevsky/HomeWork3/blob/master/image/edit_1.PNG) 
+ ![Валидация админки](https://github.com/ayanchevsky/HomeWork3/blob/master/image/validate_admin.PNG) 
                      
  
 Запуск:
