@@ -34,17 +34,17 @@
 - Использован минимальный bootstrap
 - Дизайн авторский, так как нет никаких требований к дизайну.  
                
- # Домашняя страница                     
+ ## Домашняя страница                     
  ![Домашняя страница](https://github.com/ayanchevsky/HomeWork3/blob/master/image/home.PNG) 
- # Создание задачи
+ ## Создание задачи
  ![Создание задачи](https://github.com/ayanchevsky/HomeWork3/blob/master/image/create.PNG)
-  # Текущие задачи
+ ## Текущие задачи
  ![Текущие задачи](https://github.com/ayanchevsky/HomeWork3/blob/master/image/current.PNG) 
-  # Все задачи
+ ## Все задачи
  ![Все задачи](https://github.com/ayanchevsky/HomeWork3/blob/master/image/all.PNG) 
-  # Редактирование задачи
+ ## Редактирование задачи
  ![Редактирование задачи](https://github.com/ayanchevsky/HomeWork3/blob/master/image/edit_1.PNG) 
-  # Валидация админки
+ ## Валидация админки
  ![Валидация админки](https://github.com/ayanchevsky/HomeWork3/blob/master/image/validate_admin.PNG) 
                      
  
